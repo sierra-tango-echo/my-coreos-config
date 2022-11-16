@@ -14,3 +14,5 @@ packages:
 
 repos:
 - fedora
+- fedora-coreos-pool
+- fedora-next
