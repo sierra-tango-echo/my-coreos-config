@@ -16,3 +16,4 @@ repos:
 - fedora
 - fedora-coreos-pool
 - rpmfusion-free
+- rpmfusion-nonfree
