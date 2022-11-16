@@ -1200,12 +1200,6 @@
     "util-linux-core": {
       "evra": "2.38-1.fc36.ppc64le"
     },
-    "vim-data": {
-      "evra": "2:9.0.803-1.fc36.noarch"
-    },
-    "vim-minimal": {
-      "evra": "2:9.0.803-1.fc36.ppc64le"
-    },
     "which": {
       "evra": "2.21-32.fc36.ppc64le"
     },

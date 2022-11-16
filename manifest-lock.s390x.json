@@ -1134,12 +1134,6 @@
     "veritysetup": {
       "evra": "2.4.3-2.fc36.s390x"
     },
-    "vim-data": {
-      "evra": "2:9.0.803-1.fc36.noarch"
-    },
-    "vim-minimal": {
-      "evra": "2:9.0.803-1.fc36.s390x"
-    },
     "which": {
       "evra": "2.21-32.fc36.s390x"
     },

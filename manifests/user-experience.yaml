@@ -19,7 +19,6 @@ packages:
   - jq
   - less
   - sudo
-  - vim-minimal
   # File compression/decompression
   ## bsdtar - dependency of 35coreos-live dracut module
   - bsdtar
