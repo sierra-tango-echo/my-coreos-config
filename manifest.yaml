@@ -1,8 +1,7 @@
-ref: my/${basearch}/coreos/stable
-include: fedora-coreos-config/manifest.yaml
+variables:
+  stream: stable
+  prod: true
 
-packages:
-- hdparm
+releasever: 36
 
-repos:
-- fedora
+include: manifests/fedora-coreos.yaml
