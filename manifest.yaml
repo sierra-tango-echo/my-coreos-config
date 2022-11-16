@@ -9,9 +9,10 @@ include: manifests/fedora-coreos.yaml
 packages:
 - hdparm
 - vim
-- vim-data
-- vim-common
+- gcc
+
 
 repos:
 - fedora
 - fedora-coreos-pool
+- rpmfusion
