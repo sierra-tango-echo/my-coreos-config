@@ -15,4 +15,4 @@ packages:
 repos:
 - fedora
 - fedora-coreos-pool
-- rpmfusion
+- rpmfusion-free
