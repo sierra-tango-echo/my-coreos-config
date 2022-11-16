@@ -8,6 +8,9 @@ include: manifests/fedora-coreos.yaml
 
 packages:
 - hdparm
+- vim
+- vim-data
+- vim-common
 
 repos:
 - fedora
